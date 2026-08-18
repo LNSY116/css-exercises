@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+p {
+    background-color: rgb(255, 194, 204);
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+#n2{
+    color: #1919ec;
+    font-size: 36px;
+}
+
+
+p.cool-text{
+    font-size: 24px;
+}
+
+
+#n4{
+    background-color: hsl(164, 100%, 25%);
+    font-size: 24px;
+    font-weight: bold;
+}
